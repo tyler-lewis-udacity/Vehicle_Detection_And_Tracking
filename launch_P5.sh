@@ -18,7 +18,7 @@ elif [[ "$platform" == 'Darwin' ]]; then
    platform='darwin'
    project_dir="/Users/ty/Udacity/T1/P5_vehicle_detection_and_tracking"
    conda_activate="/Users/ty/anaconda3/bin/activate"
-   
+
 fi
 
 # # Print out path variables
